@@ -1,2 +1,7 @@
 # Project-Hub
-A variety of projects I have worked on I university and in my free time
+This repo serves as a hub for various projects that I have worked on at university and in my free time.
+
+### Networking
+
+
+### Computer Graphics
